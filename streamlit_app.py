@@ -24,7 +24,7 @@ st.sidebar.markdown("## 🎂 Birthday Countdown!")
 st.sidebar.write("Your special gift will be revealed soon!")
 
 # Countdown Logic
-target_date = datetime(2025, 3, 23, 23, 59, 59)
+target_date = datetime(2025, 4, 1, 23, 59, 59)
 
 # Placeholder for countdown
 placeholder = st.empty()
